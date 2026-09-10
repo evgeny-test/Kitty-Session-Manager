@@ -1,6 +1,10 @@
 # Kitty-Session-Manager
 KiTTy Session Manager (KSM) is a tool that allows system adminstrators to organise their KiTTy sessions into folders and assign hotkeys to their favourite sessions. This is designed for MS Windows and requires the .NET Framework 4.0.3
 
+> ⚠️ This is a fix for the original version of Kitty-Session-Manager to ensure compatibility with **KiTTY version 0.84 and later**. This KiTTY version is being developed here: https://github.com/hknet/KiTTY
+
+> You can download the compiled version [here](https://github.com/evgeny-test/Kitty-Session-Manager/raw/refs/heads/master/PuTTYSessionManager/bin/Release/KiTTY%20Session%20Manager.exe).
+
 <br>
 
 ### :gb: KiTTy Session Manager features
